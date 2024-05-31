@@ -278,11 +278,11 @@ public class MdiGeneral extends javax.swing.JFrame {
 
     private void AsigCarrerasActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_AsigCarrerasActionPerformed
         // TODO add your handling code here:
-        TransaccionalAsigCarreras ventana = new TransaccionalAsigCarreras();
-        jDesktopPane1.add(ventana);
-        Dimension desktopSize = jDesktopPane1.getSize();
-        Dimension FrameSize = ventana.getSize();
-        ventana.setLocation((desktopSize.width - FrameSize.width) / 2, (desktopSize.height - FrameSize.height) / 2);
+        //TransaccionalAsigCarreras ventana = new TransaccionalAsigCarreras();
+        //jDesktopPane1.add(ventana);
+        //Dimension desktopSize = jDesktopPane1.getSize();
+        //Dimension FrameSize = ventana.getSize();
+        //ventana.setLocation((desktopSize.width - FrameSize.width) / 2, (desktopSize.height - FrameSize.height) / 2);
     }//GEN-LAST:event_AsigCarrerasActionPerformed
 
     /**

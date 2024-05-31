@@ -11,7 +11,6 @@ vista\MantenimientoCarreras$1.class
 vista\MantenimientoCarreras$7.class
 vista\MantenimientoCursos$1.class
 vista\MantenimientoFacultades$7.class
-vista\TransaccionalAsigCarreras.class
 vista\MantenimientoMaestros$7.class
 modelo\CursosDAO.class
 vista\MantenimientoSecciones$6.class
