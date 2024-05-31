@@ -1,3 +1,4 @@
+vista\MantenimientoPacientes$1.class
 vista\MantenimientoMaestros$4.class
 controlador\Cursos.class
 vista\MantenimientoFacultades$4.class
@@ -18,9 +19,11 @@ vista\MantenimientoCarreras$4.class
 vista\MantenimientoAlumnos.class
 vista\MantenimientoSecciones$3.class
 vista\frmMantenimientoBitacora$1.class
+vista\MantenimientoPacientes$7.class
 vista\MantenimientoAlumnos$3.class
 vista\MantenimientoMaestros.class
 vista\MantenimientoCursos.class
+vista\MantenimientoPacientes$4.class
 vista\MdiGeneral$11.class
 vista\frmMantenimientoBitacora$4.class
 vista\MantenimientoCursos$7.class
@@ -29,6 +32,7 @@ vista\MantenimientoAlumnos$6.class
 controlador\Carreras.class
 modelo\FacultadesDAO.class
 vista\frmMantenimientoBitacora$2.class
+vista\MantenimientoPacientes$3.class
 vista\MantenimientoMaestros$9.class
 modelo\UsuarioDAO.class
 vista\MdiGeneral$1.class
@@ -43,6 +47,7 @@ modelo\MaestrosDAO.class
 vista\MantenimientoFacultades$2.class
 vista\MantenimientoMaestros$2.class
 vista\MantenimientoCursos$3.class
+vista\MantenimientoPacientes$2.class
 modelo\AlumnosDAO.class
 vista\MantenimientoSecciones$8.class
 controlador\Empleado.class
@@ -50,19 +55,23 @@ modelo\daoBitacora.class
 vista\MantenimientoCursos$2.class
 vista\MantenimientoMaestros$8.class
 vista\MdiGeneral$6.class
+vista\MantenimientoPacientes$9.class
 vista\Login$4.class
 vista\MantenimientoAlumnos$5.class
 vista\MantenimientoSecciones$2.class
 vista\MantenimientoFacultades$3.class
+vista\MantenimientoPacientes$8.class
 vista\Login$2.class
 vista\MantenimientoCursos$8.class
 vista\MdiGeneral$10.class
+vista\MantenimientoPacientes.class
 vista\MantenimientoSecciones.class
 controlador\clsUsuarioConectado.class
 vista\frmMantenimientoBitacora$3.class
 modelo\Conexion.class
 vista\MantenimientoAlumnos$1.class
 vista\MantenimientoAlumnos$4.class
+vista\MantenimientoPacientes$5.class
 vista\MdiGeneral$7.class
 vista\MdiGeneral$2.class
 vista\Login.class
@@ -80,6 +89,8 @@ vista\MantenimientoSecciones$4.class
 vista\MdiGeneral$8.class
 controlador\clsBitacora.class
 vista\MantenimientoFacultades$6.class
+vista\MantenimientoPacientes$6.class
+modelo\PacientesDAO.class
 vista\MantenimientoCarreras$2.class
 vista\MantenimientoMaestros$6.class
 vista\frmMantenimientoBitacora$5.class
@@ -96,3 +107,4 @@ vista\MdiGeneral$9.class
 controlador\Alumnos.class
 modelo\EmpleadoDAO.class
 vista\MdiGeneral$3.class
+controlador\Pacientes.class

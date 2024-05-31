@@ -309,7 +309,7 @@ public class MantenimientoPacientes extends javax.swing.JInternalFrame {
                                         .addComponent(btnRegistrar, javax.swing.GroupLayout.PREFERRED_SIZE, 95, javax.swing.GroupLayout.PREFERRED_SIZE)
                                         .addGap(18, 18, 18)
                                         .addComponent(btnModificar, javax.swing.GroupLayout.PREFERRED_SIZE, 95, javax.swing.GroupLayout.PREFERRED_SIZE)))))
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 52, Short.MAX_VALUE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                                 .addComponent(jButton1)
@@ -465,7 +465,7 @@ public class MantenimientoPacientes extends javax.swing.JInternalFrame {
         pacienteAActualizar.setCodigo_paciente(txtbuscado.getText());
         pacienteAActualizar.setNombre_paciente(txtNombre.getText());
         pacienteAActualizar.setApellido_paciente(txtApellido.getText());
-        pacienteAActualizar.setNacimineto_paciente(txtNacimiento.getText());
+        pacienteAActualizar.setNacimiento_paciente(txtNacimiento.getText());
         pacienteAActualizar.setGenero_paciente(txtGenero.getText());
         pacienteAActualizar.setDireccion_paciente(txtDireccion.getText());
         pacienteAActualizar.setTelefono_paciente(txtTelefono.getText());
